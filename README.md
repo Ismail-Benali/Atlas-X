@@ -1,6 +1,5 @@
-# README.md
+![v 1 0 1](https://github.com/user-attachments/assets/8ce0f927-2490-4f02-88f6-14c497cee65c)
 
-# Atlas-X Project
 
 ## Overview
 Atlas-X is a multi-language project that integrates backend services written in C++ and Go, a frontend application using HTML, and data analysis capabilities in Python. This project aims to provide a comprehensive solution for data processing and user interaction.
