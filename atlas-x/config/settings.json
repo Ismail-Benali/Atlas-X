@@ -1,0 +1,35 @@
+{
+  "project_name": "Atlas-X",
+  "version": "1.0.0",
+  "description": "A multi-language project integrating C++, Go, and Python.",
+  "backend": {
+    "cpp": {
+      "enabled": true,
+      "build_system": "CMake"
+    },
+    "go": {
+      "enabled": true,
+      "port": 8080
+    }
+  },
+  "frontend": {
+    "enabled": true,
+    "framework": "HTML/CSS/JavaScript"
+  },
+  "python": {
+    "enabled": true,
+    "data_analysis": {
+      "enabled": true
+    },
+    "ai": {
+      "enabled": true
+    }
+  },
+  "logging": {
+    "level": "info",
+    "log_file": "logs/app.log"
+  },
+  "api": {
+    "base_url": "/api/v1"
+  }
+}
